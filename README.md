@@ -4,7 +4,7 @@
 
 <p>This mini project is from Jonas Schmedtmann's course on JavaScript - Zero to Mastery</p>
 
-![](https://github.com/Daniel-Ezekiel/pig-game/blob/main/img/modal-window.png)
+![](https://github.com/Daniel-Ezekiel/pig-game/modal-window.png)
 
 In this project, on clicking any of the three buttons on the page, a modal window is displayed as a popup.
 
